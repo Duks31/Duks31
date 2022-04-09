@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duks31
-- 👀 I’m interested in datascience and machine learning 
-- 🌱 I’m currently learning python and statistics
-- 💞️ I’m looking to collaborate on datascience
+- 👀 I’m interested in datascience and machine learning and AI
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on AI and machine learning and web3
 - 📫 How to reach me chidubemjan31@gmail.com
 
 <!---
