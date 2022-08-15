@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Duks31
 - 👀 I’m interested machine learning and AI
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on AI and machine learning and web3
+- 💞️ I’m looking to collaborate on AI and machine learning
 - 📫 How to reach me chidubemjan31@gmail.com
 
 <!---
