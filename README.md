@@ -37,7 +37,7 @@ I have been coding for 2 years and still counting, started with some basic stuff
                       href="http://www.github.com/Duks31"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Duks31&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                       href="http://www.github.com/Duks31"><img src="https://activity-graph.herokuapp.com/graph?username=Duks31&bg_color=000000&color=ffffff&line=6366f1&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+</p>
 <!---
 Duks31/Duks31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
