@@ -8,7 +8,7 @@ I have been coding for 2 years and still counting, started with some basic stuff
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [chidubemjan31@gmail.com](mailto:chidubemjan31@gmail.com)
-* 🧠  I'm learning C++, Deep Neural Nets
+* 🧠  I'm learning Deep Neural Nets and Machine Learning ALgorithms 
 * 🤝  I'm open to collaborating on Machine Learning projects and Artificial Intelligence software
 
 ### Skills
