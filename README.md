@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Engineer
 -----------
 
-I have been coding for 2 years and still counting, started with some basic stuff in python ( wish I learnt C 🙂 ), got really interested in Artificial Intelligence for the long run and the effect it has on our future.
+I have been coding for a couple of years, started with some basic stuff in python, got really interested in Artificial Intelligence for the long run and the effect it has on our future. Now a DeepLearning Enthusiast. 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [chidubemjan31@gmail.com](mailto:chidubemjan31@gmail.com)
