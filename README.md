@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ndukwe Chidubem</h1>
-<h3 align="center">Mechatronics Undergrad and AI Developer</h3>
+<h3 align="center">Mechatronics Undergrad and Developer</h3>
 
-- 🌱 I’m currently studying **Mechatronics in University, Machine Learning and Artificial Intelligence personally**
+- 🌱 I’m currently studying **Mechatronics in University, Software Development, Machine Learning and Artificial Intelligence personally**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects and Artificial Intelligence software**
+- 👯 I’m looking to collaborate on **Software Development Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Duks31](https://github.com/Duks31)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chidubemjan31@gmail.com**
 
-- ⚡ Fun fact **I have been coding for a couple of years, started with some basic stuff in python, got really interested in Artificial Intelligence for the long run and the effect it has on our future. Now an AI Developer and DeepLearning Enthusiast.**
+- ⚡ Fun fact **Python was my first language before i moved to C/C++, Javascript, GO and Rust.**
 
 - 💯 **I love learning new languages and Technology**.
 
