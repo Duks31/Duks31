@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chidubemjan31@gmail.com**
 
-- ⚡ Fun fact **Python was my first language before i moved to C/C++, Javascript, GO and Rust.**
+- ⚡ Fun fact **Python was my first language before i learnt to C/C++, Javascript, GO and Rust.**
 
 - 💯 **I love learning new languages and Technology**.
 
