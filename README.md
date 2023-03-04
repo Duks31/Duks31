@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ndukwe Chidubem</h1>
-<h3 align="center">Mechatronics Undergrad and Developer</h3>
+<h3 align="center">Mechatronics Undergrad and Software and AI Developer</h3>
 
 - 🌱 I’m currently studying **Mechatronics in University, Software Development, Machine Learning and Artificial Intelligence personally**
 
