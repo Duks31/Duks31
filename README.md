@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ndukwe Chidubem</h1>
-<h3 align="center">Mechatronics Undergrad, AI Geek </h3>
+<h1 align="center">Hi 👋, there</h1>
 
 studying **Mechatronics in University, self studying Software Development,Artificial Intelligence**
 
