@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, there</h1>
+<h1>Hi 👋, there</h1>
 
-studying **Mechatronics in University, self studying Software Development,Artificial Intelligence**
+I'm studying **Mechatronics in University, self studying Software Development,Artificial Intelligence**
 
 I regularly write articles on [https://medium.com/@chidubemndukwe](https://medium.com/@chidubemndukwe)
 
