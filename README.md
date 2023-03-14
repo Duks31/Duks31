@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ndukwe Chidubem</h1>
 <h3 align="center">Mechatronics Undergrad, AI Geek </h3>
 
-- 🌱 I’m currently studying **Mechatronics in University, self studying Software Development,Artificial Intelligence**
+studying **Mechatronics in University, self studying Software Development,Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Software Development and AI Projects.**
+I regularly write articles on [https://medium.com/@chidubemndukwe](https://medium.com/@chidubemndukwe)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Duks31](https://github.com/Duks31)
-
-- 📝 I regularly write articles on [https://medium.com/@chidubemndukwe](https://medium.com/@chidubemndukwe)
-
-- 📫 How to reach me **chidubemjan31@gmail.com**
-
-- ⚡Currently learning **maths behind Deep Learning**
-
-- 💯 **I love learning new languages and Technology**.
+How to reach me **chidubemjan31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
