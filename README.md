@@ -7,6 +7,7 @@ I write articles on [https://medium.com/@chidubemndukwe](https://medium.com/@chi
 How to reach me **chidubemjan31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://kaggle.com/chidubemndukwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chidubemndukwe" height="30" width="40" /></a>
 <a href="https://medium.com/@chidubemndukwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chidubemndukwe" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chidubem-ndukwe-b8778920a/" target = 'blank'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="chidubemndukwe" height="30" width="40> </a>
