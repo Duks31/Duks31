@@ -1,6 +1,6 @@
 <h1>Hi 👋, there</h1>
 
-**Mechatronics Undergrad AI geek**
+**Mechatronics Undergrad, AI geek**
 
 I write articles on [https://medium.com/@chidubemndukwe](https://medium.com/@chidubemndukwe)
 
