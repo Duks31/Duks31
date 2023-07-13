@@ -1,6 +1,6 @@
 <h1>Hi 👋, there</h1>
 
-I'm studying **Mechatronics in University, self studying Software Development,Artificial Intelligence**
+**Mechatronics Undergrad AI geek**
 
 I write articles on [https://medium.com/@chidubemndukwe](https://medium.com/@chidubemndukwe)
 
