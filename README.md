@@ -2,13 +2,11 @@
 
 I'm studying **Mechatronics in University, self studying Software Development,Artificial Intelligence**
 
-I regularly write articles on [https://medium.com/@chidubemndukwe](https://medium.com/@chidubemndukwe)
+I write articles on [https://medium.com/@chidubemndukwe](https://medium.com/@chidubemndukwe)
 
 How to reach me **chidubemjan31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/duksle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duksle" height="30" width="40" /></a>
 <a href="https://kaggle.com/chidubemndukwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chidubemndukwe" height="30" width="40" /></a>
 <a href="https://medium.com/@chidubemndukwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chidubemndukwe" height="30" width="40" /></a>
 </p>
