@@ -16,7 +16,7 @@ Hi, I'm Ndukwe Chidubem. A student and Undergrad Mechatronics engineer, interest
 ## 📬 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/chidubem-ndukwe-b8778920a/)
-- [Website] [(https://duks31.github.io/)
+- [website](https://duks31.github.io/)
 - [medium](https://medium.com/@chidubemndukwe)
 
 </details>
