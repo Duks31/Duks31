@@ -1,4 +1,4 @@
-I'm **Chidubem**. Geeking out AI
+I'm **Chidubem**. geek
 
 <details>
 <summary>Eloboration</summary>
