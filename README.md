@@ -9,7 +9,7 @@ Hi, I'm Ndukwe Chidubem. A student and Undergrad Mechatronics engineer, interest
 
 - 🎓 Studying Mechatronics Engineering in university.
 - 🌐 Exploring Artificial Intelligence outside of the university.
-- 🎧 Lex Fridman and Steve Bartley (DOAC) are my current podcast hosts.
+- 🎧 Lex Fridman and Steve Bartley (DOAC) are my current favourite podcast hosts.
 - 📚 I read a lot.
 - 💻 Most of my time is spent studying and programming and playing chess.
 
