@@ -19,4 +19,5 @@ Hi, I'm Ndukwe Chidubem. A student and Undergrad Mechatronics engineer, interest
 - [website](https://duks31.github.io/)
 - [medium](https://medium.com/@chidubemndukwe)
 - [twitter](https://x.com/ChidubemNdukwe)
+- [kaggle](https://www.kaggle.com/chidubemndukwe)
 </details>
