@@ -23,4 +23,6 @@ Solving problems with AI and Robotics.
 - [twitter](https://x.com/ChidubemNdukwe)
 - [kaggle](https://www.kaggle.com/chidubemndukwe)
 
+- [Subscribe to my NewsLetter](https://ncep.substack.com/)
+
 <!-- </details> -->
