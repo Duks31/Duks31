@@ -1,7 +1,7 @@
 I'm **Chidubem**. 
 
-<details>
-<summary>Eloboration</summary>
+<!-- <details> -->
+<!-- <summary>Eloboration</summary> -->
 
 Hi, I'm Ndukwe Chidubem. A student and Undergrad Mechatronics engineer, interested in in-depth AI concepts and its applications.
 Solving problems with AI and Robotics. 
@@ -22,4 +22,5 @@ Solving problems with AI and Robotics.
 - [medium](https://medium.com/@chidubemndukwe)
 - [twitter](https://x.com/ChidubemNdukwe)
 - [kaggle](https://www.kaggle.com/chidubemndukwe)
-</details>
+
+<!-- </details> -->
