@@ -13,7 +13,7 @@ Solving problems with AI and Robotics.
 - 🎧 Lex Fridman and Steve Bartley (DOAC) are my current favourite podcast hosts.
 - 📚 I read a lot.
 - 💻 Most of my time is spent studying and programming and playing chess.
-- 📚 I listen to TED talks. 
+- 📚 I listen to TED talks and speeches (any form).
 
 ## 📬 Get in Touch
 
