@@ -1,5 +1,3 @@
-I'm **Chidubem**. 
-
 ![Banner](/banner.png)
 <!-- <details> -->
 <!-- <summary>Eloboration</summary> -->
