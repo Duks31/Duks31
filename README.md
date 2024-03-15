@@ -1,6 +1,4 @@
 ![Banner](/banner.png)
-<!-- <details> -->
-<!-- <summary>Eloboration</summary> -->
 
 Hi, I'm Ndukwe Chidubem. A student and Undergrad Mechatronics engineer, interested in in-depth AI concepts and its applications.
 Solving problems with AI and Robotics. 
@@ -13,6 +11,7 @@ Solving problems with AI and Robotics.
 - 📚 I read a lot.
 - 💻 Most of my time is spent studying and programming and playing chess.
 - 📚 I listen to TED talks and speeches (any form).
+- 🈸 I have mini flutter skills :)
 
 ## 📬 Get in Touch
 
