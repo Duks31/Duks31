@@ -1,4 +1,4 @@
-![Banner](/banner.png)
+<img src="/banner.png" alt="Banner" width="400"/>
 
 Hi, I'm Ndukwe Chidubem. A student and Undergrad Mechatronics engineer, interested in in-depth AI concepts and its applications.
 Solving problems with AI and Robotics. 
