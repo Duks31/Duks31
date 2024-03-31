@@ -15,7 +15,7 @@ Below are some thing i am and have worked on 💯👨‍💻
 | [RCC](https://github.com/Duks31/rcc--resistor-color-code-) | A resistor color code calculator | C++ | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Learning & Project |
 | [Capp](https://github.com/Duks31/capp) | Capp is a minimal chat application designed in flutter, basic sending and recieveing messages | Dart & Flutter | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Learning & Project | 
 | ragchat | Ragchat is an application that basically help the user to talk to a document, PDF for example, using AI | Python | ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Project | 
-| [GAN](https://github.com/Duks31/GAN) | Build a GAN (Geneartive Adversarial Network) that generates images | Python | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Project | Part 1: [Understanding GANs](https://open.substack.com/pub/ncep/p/ep2-gans-pt1?r=18rqnt&utm_campaign=post&utm_medium=web) Part 2: [Building GANs](https://open.substack.com/pub/ncep/p/ep3-gans-pt2?r=18rqnt&utm_campaign=post&utm_medium=web)
+| [GAN](https://github.com/Duks31/GAN) | Build a GAN (Geneartive Adversarial Network) that generates images | Python | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Project | [Substack](https://open.substack.com/pub/ncep/p/ep3-gans-pt2?r=18rqnt&utm_campaign=post&utm_medium=web)
 
 
 ## 📬 Get in Touch
