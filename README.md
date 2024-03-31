@@ -15,7 +15,7 @@ Below are some thing i am and have worked on 💯👨‍💻
 | [RCC](https://github.com/Duks31/rcc--resistor-color-code-) | A resistor color code calculator | C++ | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Learning & Project |
 | [Capp](https://github.com/Duks31/capp) | Capp is a minimal chat application designed in flutter, basic sending and recieveing messages | Dart & Flutter | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Learning & Project | 
 | ragchat | Ragchat is an application that basically help the user to talk to a document, PDF for example, using AI | Python | ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Project | 
-| GAN | Build a GAN (Geneartive Adversarial Network) that generates images | Python | ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Project |
+| [GAN](https://github.com/Duks31/GAN) | Build a GAN (Geneartive Adversarial Network) that generates images | Python | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Project |
 
 ## 📬 Get in Touch
 
