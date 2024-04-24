@@ -7,8 +7,8 @@ Below are some thing i am and have worked on 💯👨‍💻
 
 | Name             | Description          | Language | Status  | Type   | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
-| [Nerd Stack](https://ncep.substack.com/) | Nerd Stack is a newsletter that talks about AI, Robotics, and Mechatronics | Python | ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Project & Learning | [Substack](https://ncep.substack.com/)
-| [Mnist App](https://duks31.github.io/mnist-app/) | Mnist App is a digit recognizer that uses machine learning, precisely Convolution Neural Network (CNN) | Python | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Project |
+| [Nerd Stack](https://ncep.substack.com/) | Nerd Stack is a newsletter that talks about AI, Robotics, and Mechatronics |  | ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Project & Learning | [Substack](https://ncep.substack.com/)
+| [Mnist App](https://duks31.github.io/mnist-app/) | Mnist App is a digit recognizer that uses machine learning, precisely Convolution Neural Network (CNN) | Python & Flutter | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Project |
 | [Gradient Descent](https://github.com/Duks31/gradeint-descent) | Learning about Gradient Descent used in training Neural Networks | Python  | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Research | [Medium](https://medium.com/@chidubemndukwe/understanding-gradient-descent-25233d783cb7)
 | [Corise-app](https://github.com/Duks31/Corise--app) | A podcast summarry app that uses OpenAI api to summarize podcast episodes, identify podcast guests and key highlights | Python | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Course & Project |
 | [Nigeria house price prediction](https://github.com/Duks31/nigeria-housing-prices-prediction---kaggle--) | A machine learning model that predicts house prices in Nigeria | Python | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Project | [Kaggle](https://www.kaggle.com/code/chidubemndukwe/predicting-nigeria-house-prices)
