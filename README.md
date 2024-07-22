@@ -4,7 +4,7 @@ Hi, I'm Ndukwe Chidubem. A student and Undergrad Mechatronics engineer, interest
 Solving problems with AI and Robotics, minimal software dev.
 Below are some thing i am and have worked on 💯👨‍💻
 
-if you want to be an ML engineer, read research papers and implement - George Hotz
+If you want to be an ML engineer, read research papers and implement - George Hotz
 
 | Name             | Description          | Language | Status  | Type   | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
