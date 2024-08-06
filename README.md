@@ -39,7 +39,7 @@ If you want to be an ML engineer, read research papers and implement - George Ho
 
 | Name | Description | Language | Status | Type | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
-| [Differential wheeled Robot](https://github.com/Duks31/differential-wheeled-robot) | A mobile robot whose movement is based on two separately driven wheels placed on either side of the robot body | ROS and Fusion360 |  ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Learning and Project |
+| Differential wheeled Robot | A mobile robot whose movement is based on two separately driven wheels placed on either side of the robot body | ROS and Fusion360 |  ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Learning and Project |
 
 </details>
 
