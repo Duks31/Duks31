@@ -2,7 +2,9 @@
 
 Hi, I'm Ndukwe Chidubem. A student and Undergrad Mechatronics engineer, interested in in-depth AI concepts and its applications.
 Solving problems with AI and Robotics, minimal software dev.
-Below are some thing i am and have worked on 💯👨‍💻
+Below are some thing i am and have worked on 👨‍💻
+
+"Engineering is all about solving problems"
 
 If you want to be an ML engineer, read research papers and implement - George Hotz
 
