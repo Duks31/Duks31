@@ -42,7 +42,7 @@ If you want to be an ML engineer, read research papers and implement - George Ho
 
 | Name | Description | Language | Status | Type | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
-| Autonomous Robot | Making an Autonomous Robot with the help of machine learning and AI | ROS and Fusion360 |  ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Learning and Project |
+| Autonomous Robot | Making an Autonomous Robot with the help of machine learning and AI | ROS, Arduino and Fusion360 |  ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Learning and Project |
 
 </details>
 
@@ -66,7 +66,6 @@ If you want to be an ML engineer, read research papers and implement - George Ho
 | Name | Description | Language | Status | Type | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
 | [Nerd Stack](https://ncep.substack.com/) | Nerd Stack is a newsletter that talks about AI, Robotics, and Mechatronics |  | ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Project & Learning | [Substack](https://ncep.substack.com/) |
-| [RCC](https://github.com/Duks31/rcc--resistor-color-code-) | A resistor color code calculator | C++ | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Learning & Project |
 
 </details>
 
