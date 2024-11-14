@@ -30,7 +30,7 @@ If you want to be an ML engineer, read research papers and implement - George Ho
 | [churn Prediction](https://github.com/Duks31/churn_prediction) | Churn predictor using machine learning and powerBI visualization  | Python & PowerBI | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Project |
 | [Corise-app](https://github.com/Duks31/Corise--app) | A podcast summary app that uses OpenAI API to summarize podcast episodes, identify podcast guests and key highlights | Python | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Course & Project |
 | ragchat| Ragchat is an application that basically helps the user to talk to a document, PDF for example, using AI | Python | ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Project |
-| [Air Quality Predictor](https://github.com/Duks31/air_quality/) | An Air quality predictor, predicting the amount of pm25 | Python | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Project |
+| [Air Quality Predictor](https://github.com/Duks31/air_quality/) | An Air quality predictor, predicting the amount of pm25 | Python | ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Project | [Website] (https://duks31.github.io/air_quality/)
 
 
 </details>
