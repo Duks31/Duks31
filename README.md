@@ -42,7 +42,7 @@ If you want to be an ML engineer, read research papers and implement - George Ho
 
 | Name | Description | Language | Status | Type | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
-| Autonomous Robot | Making an Autonomous Robot with the help of machine learning and AI | ROS, Arduino and Fusion360 |  ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Learning and Project |
+| Differential Drive Robot | Making an Differential Drive Robot with ROS2 | ROS2, Fusion360 |  ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Learning and Project |
 
 </details>
 
