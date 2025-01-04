@@ -6,8 +6,6 @@ Below are some thing i am and have worked on 👨‍💻
 
 "Engineering is all about solving problems"
 
-If you want to be an ML engineer, read research papers and implement - George Hotz
-
 ### Project Overview
 - [AI and Machine learning](#ai-and-machine-learning)
 - [Robotics](#robotics)
