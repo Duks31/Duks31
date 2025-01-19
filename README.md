@@ -41,7 +41,7 @@ Below are some thing i am and have worked on 👨‍💻
 | Name | Description | Language | Status | Type | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
 | [Differential Drive Robot](https://github.com/Duks31/my_bot) | Making an Differential Drive Robot with ROS2 | ROS2, Fusion360 |  ![Build Status](https://img.shields.io/badge/Done-brightgreen) | Learning and Project |
-| Robot Arm Manipulator |  | ROS2, Fusion360 |  ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Learning and Project |
+| [Robot Arm Manipulator](https://github.com/Duks31/robot-arm) | This project involves the development of a robotic arm using ROS2 (Robot Operating System 2) | ROS2, Fusion360 |  ![Build Status](https://img.shields.io/badge/In%20progress-yellow) | Learning and Project |
 
 </details>
 
