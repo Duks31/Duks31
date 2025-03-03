@@ -4,7 +4,7 @@ Hi, I'm Ndukwe Chidubem.
 
 Solving problems, getting cracked.
 
-"Engineering is all about solving problems"
+"We do things not because they are hard but becasue they are easy" - JFK
 
 <!-- 
 <details>
