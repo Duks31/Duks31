@@ -1,6 +1,7 @@
 ![Banner](/banner_c.png)
 
 Hi, I'm Ndukwe Chidubem.
+
 Solving problems, getting cracked.
 
 "Engineering is all about solving problems"
