@@ -5,7 +5,7 @@ Solving problems, getting cracked.
 
 "Engineering is all about solving problems"
 
-
+<!-- 
 <details>
 <summary>AI and ML </summary>
 
@@ -61,4 +61,4 @@ Solving problems, getting cracked.
 - [medium](https://medium.com/@chidubemndukwe)
 - [twitter](https://x.com/ChidubemNdukwe)
 - [kaggle](https://www.kaggle.com/chidubemndukwe)
-- [Subscribe to my NewsLetter](https://ncep.substack.com/)
+- [Subscribe to my NewsLetter](https://ncep.substack.com/) -->
