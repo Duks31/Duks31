@@ -4,7 +4,7 @@ Hi, I'm Ndukwe Chidubem.
 
 Solving problems, getting cracked.
 
-"We do things not because they are hard but becasue they are easy" - JFK
+"We do things not because they are easy but becasue they are hard" - JFK
 
 <!-- 
 <details>
