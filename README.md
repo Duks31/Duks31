@@ -1,21 +1,13 @@
 ![Banner](/banner_c.png)
 
-Hi, I'm Ndukwe Chidubem. A student and Undergrad Mechatronics engineer, interested in in-depth AI concepts and its applications.
-Solving problems with AI and Robotics, minimal software dev.
-Below are some thing i am and have worked on 👨‍💻
+Hi, I'm Ndukwe Chidubem.
+Solving problems, getting cracked.
 
 "Engineering is all about solving problems"
 
-### Project Overview
-- [AI and Machine learning](#ai-and-machine-learning)
-- [Robotics](#robotics)
-- [Android Development](#android-development)
-- [else](#else)
-
-#### AI and Machine learning
 
 <details>
-<summary>Click to expand</summary>
+<summary>AI and ML </summary>
 
 | Name | Description | Language | Status | Type | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
@@ -33,10 +25,8 @@ Below are some thing i am and have worked on 👨‍💻
 
 </details>
 
-#### Robotics
-
 <details>
-<summary>Click to expand</summary>
+<summary>Robotics</summary>
 
 | Name | Description | Language | Status | Type | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
@@ -45,10 +35,8 @@ Below are some thing i am and have worked on 👨‍💻
 
 </details>
 
-#### Android Development
-
 <details>
-<summary>Click to expand</summary>
+<summary>Android Development</summary>
 
 | Name | Description | Language | Status | Type | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
@@ -57,10 +45,8 @@ Below are some thing i am and have worked on 👨‍💻
 
 </details>
 
-#### else
-
 <details>
-<summary>Click to expand</summary>
+<summary>else</summary>
 
 | Name | Description | Language | Status | Type | Other links |
 |------------------|----------------------|----------|---------|--------|-------------|
