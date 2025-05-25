@@ -1,10 +1,10 @@
-![Banner](/banner_c.png)
+<!-- ![Banner](/banner_c.png) -->
 
 Hi, I'm Ndukwe Chidubem.
 
-Learning and Solving problems in ml, robotics + ai.
+<!-- Learning and Solving problems in ml, robotics + ai.
 
-"We do things not because they are easy but becasue they are hard" - JFK
+"We do things not because they are easy but becasue they are hard" - JFK -->
 
 <!-- 
 <details>
