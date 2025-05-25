@@ -1,6 +1,8 @@
-<!-- ![Banner](/banner_c.png) -->
+ml, robotics + ai.
 
-Hi, I'm Ndukwe Chidubem.
+<!-- ![Banner](/banner_c.png) 
+
+Hi, I'm Ndukwe Chidubem. -- >
 
 <!-- Learning and Solving problems in ml, robotics + ai.
 
