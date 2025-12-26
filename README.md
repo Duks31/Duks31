@@ -1,4 +1,5 @@
 ml, robotics + ai, engineering.
+![you can just do things](https://github.com/user-attachments/assets/64a92dd0-88d5-44ab-8497-f264cd2d2568)
 
 <!-- ![Banner](/banner_c.png) 
 
